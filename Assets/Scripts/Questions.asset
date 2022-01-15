@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ec6963ef39096d43ac70d79a8807971, type: 3}
+  m_Name: Questions
+  m_EditorClassIdentifier: 
+  questionSets:
+  - level: 0
+    questions:
+    - questionText: "Uh\xE1dni n\xE1zov piesne..."
+      questionImage: {fileID: 0}
+      questionAudio: {fileID: 8300000, guid: 8e65f064c9b83df4abefde7a9f349b2e, type: 3}
+      correctAnswerKey: "Koh\xFAtik jarab\xFD"
+      answerChoices:
+      - "Pr\u0161\xED pr\u0161\xED"
+      - "\u010Cerven\xFD kachel"
+      - "Koh\xFAtik jarab\xFD"
+      - "Pec n\xE1m spadla"
+      - "Zlat\xE1 br\xE1na"
+      questionType: 2
+    - questionText: "Uh\xE1dni n\xE1zov piesne..."
+      questionImage: {fileID: 0}
+      questionAudio: {fileID: 8300000, guid: 7a0d0c3290999b64ebc54ec27e28caad, type: 3}
+      correctAnswerKey: "Pec n\xE1m spadla"
+      answerChoices:
+      - "Pec n\xE1m spadla"
+      - "Koh\xFAtik jarab\xFD"
+      - "\u010Cerven\xFD kachel"
+      - "Zlat\xE1 br\xE1na"
+      - "Pr\u0161\xED pr\u0161\xED"
+      questionType: 2
+    - questionText: "Uh\xE1dni n\xE1zov piesne..."
+      questionImage: {fileID: 0}
+      questionAudio: {fileID: 8300000, guid: 5588f09dc07315946a91e497e8c55084, type: 3}
+      correctAnswerKey: "\u010Cerven\xFD kachel"
+      answerChoices:
+      - "\u010Cerven\xFD kachel"
+      - "Pr\u0161\xED pr\u0161\xED"
+      - "Koh\xFAtik jarab\xFD"
+      - "Pec n\xE1m spadla"
+      - "Zlat\xE1 br\xE1na"
+      questionType: 2
+    - questionText: "Uh\xE1dni n\xE1zov piesne..."
+      questionImage: {fileID: 0}
+      questionAudio: {fileID: 8300000, guid: 9aa69585f4a4fc8419b4bdf2a6b31700, type: 3}
+      correctAnswerKey: "Pr\u0161\xED pr\u0161\xED"
+      answerChoices:
+      - "Pec n\xE1m spadla"
+      - "Zlat\xE1 br\xE1na"
+      - "Koh\xFAtik jarab\xFD"
+      - "\u010Cerven\xFD kachel"
+      - "Pr\u0161\xED pr\u0161\xED"
+      questionType: 2
+    - questionText: "Uh\xE1dni n\xE1zov piesne..."
+      questionImage: {fileID: 0}
+      questionAudio: {fileID: 8300000, guid: 98119380e3ae4fb408c07691febb027b, type: 3}
+      correctAnswerKey: "Zlat\xE1 br\xE1na"
+      answerChoices:
+      - "Pec n\xE1m spadla"
+      - "Koh\xFAtik jarab\xFD"
+      - "Pr\u0161\xED pr\u0161\xED"
+      - "Zlat\xE1 br\xE1na"
+      - "\u010Cerven\xFD kachel"
+      questionType: 2
